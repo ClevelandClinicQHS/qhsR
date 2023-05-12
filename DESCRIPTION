@@ -1,11 +1,16 @@
 Package: qhsR
-Title: What the Package Does (One Line, Title Case)
+Title: R Functions for the CCF QHS Department
 Version: 0.1.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    c(person(given = "Emily C.", 
+             family = "Zabor", 
+             email = "zabore2@ccf.org", 
+             role = c("aut", "cre"),
+             comment = c(ORCID = "0000-0002-1402-4498")))
+Description: A miscellaneous collection of R functions for use by members of the CCF QHS department.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
+Imports: 
+    ggplot2
