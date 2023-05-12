@@ -35,9 +35,9 @@ Details of the included functionality follow.
 
 ## CCF color palette
 
-The `ccf_color_palette` functions provides users with easy access to CCF brand colors for use in plotting with `ggplot2` or base R plotting.
+The `ccf_color_palette` functions provide users with easy access to CCF brand colors for use in plotting with `ggplot2` or base R.
 
-The code behind this color palette is largely based on the code from the Wes Anderson color palettes for R: [https://github.com/karthik/wesanderson](https://github.com/karthik/wesanderson) and a previous brand color palette I created at Memorial Sloan Kettering Cancer Center.
+The code behind this color palette is largely based on the code from the Wes Anderson color palettes for R: [https://github.com/karthik/wesanderson](https://github.com/karthik/wesanderson) and a previous brand color palette created at Memorial Sloan Kettering Cancer Center.
 
 ```{r}
 library(ggplot2)
