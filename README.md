@@ -20,11 +20,13 @@ You can install the development version of qhsR from
 devtools::install_github("ClevelandClinicQHS/qhsR")
 ```
 
-Details of the included functionality follow.
+Details of the included functionality follow, and include:
+
+1.  CCF color palette
 
 ------------------------------------------------------------------------
 
-## CCF color palette
+## 1. CCF color palette
 
 The `ccf_color_palette` functions provide users with easy access to CCF
 brand colors for use in plotting with `ggplot2` or base R.
